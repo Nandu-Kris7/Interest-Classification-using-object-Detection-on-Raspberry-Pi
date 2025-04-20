@@ -35,8 +35,7 @@ Install the required Python libraries using `pip3`:
 pip3 install opencv-python numpy tensorflow
 
 ### Clone the Repository
-git clone <your-repository-url>
-cd <your-repository-directory>
+git clone https://github.com/Nandu-Kris7/Interest-Classification-using-object-Detection-on-Raspberry-Pi.git
 
 ## How It Works
 
